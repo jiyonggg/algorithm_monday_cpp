@@ -1,2 +1,6 @@
 # algorithm_monday_cpp
-My Own Solutions of Goorm Algorithm Monday Challenge Questions
+## Week 1
+- 경로의 개수
+- 동명이인
+- 최장 맨해튼 거리
+- 소수 찾기
