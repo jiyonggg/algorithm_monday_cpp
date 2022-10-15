@@ -1,4 +1,4 @@
-# algorithm_monday_cpp
+# Goorm Algorithm Monday Challenge
 ## Week 1
 - 경로의 개수
 - 동명이인
