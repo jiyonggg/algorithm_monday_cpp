@@ -11,6 +11,7 @@ int main() {
         std::string name;
         std::cin >> name;
 
+        // std::string의 find 메소드는 일치하는 문자열이 없을시 std::string::npos를 반환함
         if (name.find(s) != std::string::npos) result++;
     }
 
