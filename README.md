@@ -26,3 +26,17 @@
 - 폭탄 구현하기
     - [문제](week2/mission4.md)
     - [풀이](week2/mission4.cpp)
+
+## Week 3
+- 0커플
+    - [문제](week3/mission1.md)
+    - [풀이](week3/mission1.cpp)
+- 폴더 폰 자판
+    - [문제](week3/mission2.md)
+    - [풀이](week3/mission2.cpp)
+- 구름이의 여행
+    - [문제]
+    - [풀이]
+- 순환하는 수로
+    - [문제]
+    - [풀이]
